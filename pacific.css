@@ -1,3 +1,14 @@
+/* 
+File: pacific.css
+GUI Assignment: HW2
+Name: Kevin Kieu
+Purpose: Gives styling to index html file
+Mistakes: Noticed a mistake when rescaling, when browser is smaller the bullets points show but when stretched they disappear.
+I also couldn't get the nav bar to fully extend to the wrapper, so the left bar was set in stone...
+Date: 6/4/25
+*/
+
+
 header, hgroup, nav, footer, figure, figcaption, aside, section, article {
 	display: block;
 }
